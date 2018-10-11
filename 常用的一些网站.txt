@@ -1,0 +1,8 @@
+常用的一些资源网站
+   1. iconfont.cn  阿里的图标字体网站
+   2. dowebok.com  素材网站
+   3. githup.com 程序员的世界
+   4. css88.com 开源的API网站
+   5. bootcdn.cn 跨域请求的各种连接
+   6. awesomes.cn 前端库
+   7. typingclub.com 打字练习网站
